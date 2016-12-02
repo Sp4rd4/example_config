@@ -1,0 +1,28 @@
+source 'https://rubygems.org'
+
+gem 'pry-rails'
+gem 'pry-byebug'
+gem 'pry-inline'
+gem 'pry-state'
+gem 'database_cleaner'
+gem 'factory_girl_rails'
+gem 'rspec-rails'
+gem 'rails-controller-testing'
+gem 'guard'
+gem 'guard-rubocop'
+gem 'guard-rspec'
+gem 'terminal-notifier-guard'
+gem 'faker'
+gem 'shoulda'
+gem 'license_finder'
+gem 'rails_best_practices'
+gem 'paranoia'
+gem 'rubycritic'
+gem 'brakeman'
+gem 'bullet'
+
+gem 'listen', '~> 3.0.5'
+# Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+gem 'spring'
+gem 'spring-watcher-listen', '~> 2.0.0'
+
